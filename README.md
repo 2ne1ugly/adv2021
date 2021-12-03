@@ -1,0 +1,1 @@
+ex) `cargo run d00`

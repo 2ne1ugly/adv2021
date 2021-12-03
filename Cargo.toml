@@ -1,0 +1,33 @@
+[package]
+name = "adv2021"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1.5.4"
+
+[[bin]]
+name = "d01-1"
+path = "src/d01/1.rs"
+
+[[bin]]
+name = "d01-2"
+path = "src/d01/2.rs"
+
+[[bin]]
+name = "d02-1"
+path = "src/d02/1.rs"
+
+[[bin]]
+name = "d02-2"
+path = "src/d02/2.rs"
+
+[[bin]]
+name = "d03-1"
+path = "src/d03/1.rs"
+
+[[bin]]
+name = "d03-2"
+path = "src/d03/2.rs"

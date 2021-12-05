@@ -1,1 +1,1 @@
-ex) `cargo run d00`
+ex) `cargo run d01-1`

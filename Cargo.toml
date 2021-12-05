@@ -31,3 +31,19 @@ path = "src/d03/1.rs"
 [[bin]]
 name = "d03-2"
 path = "src/d03/2.rs"
+
+[[bin]]
+name = "d04-1"
+path = "src/d04/1.rs"
+
+[[bin]]
+name = "d04-2"
+path = "src/d04/2.rs"
+
+[[bin]]
+name = "d05-1"
+path = "src/d05/1.rs"
+
+[[bin]]
+name = "d05-2"
+path = "src/d05/2.rs"
